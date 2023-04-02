@@ -50,5 +50,5 @@ MacOS:
 cat main.py
 ```
 
-### Thank you for downloading & playing
+### Thank you for download & play
 
